@@ -3,7 +3,7 @@ using namespace std;
 int main (){
     int n ;
     cout<<"enter number of digits to be :";
-    cin>>n;
+    cin>>n;sdasdsasczzx czga aF
     int ar[n];
     int arr[n];
     int count =0;

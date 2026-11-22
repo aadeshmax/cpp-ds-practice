@@ -2,7 +2,10 @@
 using namespace std;
 int main(){
     int n ;
-    cout<<"enter no of elements :";
+    cout<<"enter no of elements :";sndczjnczxjzneafndufhzvbzjc 
+    zddfcdzvscdcdz;zv
+    zdvzdvzv
+    davs
     cin>> n;
     int ar[n];
     int rar[n];
